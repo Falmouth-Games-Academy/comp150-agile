@@ -1,7 +1,6 @@
 # comp150-agile
-Essay on the Agile Philosophy
 
-##Agile Essay Proposal
+##Agile Essay Proposal for Thomas Easterbrook
 
 The question I intend to answer in my essay is How Game Developers Could Make More Effective Use Of User Stories? 
 To answer the question I will look at the current use of user stories and the drawbacks it has and why these may exist under the current system. 
