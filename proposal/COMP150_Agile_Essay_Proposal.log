@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.11.22)  28 FEB 2016 19:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.11.22)  22 MAR 2016 23:39
 entering extended mode
 **COMP150_Agile_Essay_Proposal.tex
 (COMP150_Agile_Essay_Proposal.tex
@@ -484,18 +484,17 @@ Overfull \hbox (45.07755pt too wide) in paragraph at lines 174--175
  []
 
 [9] (COMP150_Agile_Essay_Proposal.bbl
-Underfull \hbox (badness 1173) in paragraph at lines 34--37
-\OT1/cmr/m/it/10.95 Com-mu-ni-ca-tion Tech-nol-ogy Elec-tron-ics Mi-cro-elec-tr
-on-ics (MIPRO), 2013 36th
+Underfull \hbox (badness 2894) in paragraph at lines 4--10
+[]\OT1/cmr/m/n/10.95 Anderson, L., Alle-man, G. B., Beck, K., Blot-ner, J.,
  []
 
-[10]
-Underfull \hbox (badness 1838) in paragraph at lines 66--68
-[]\OT1/cmr/m/n/10.95 L. Yi, ``Man-ager as scrum mas-ter,'' in \OT1/cmr/m/it/10.
-95 Ag-ile Con-fer-ence (AG-ILE), 2011\OT1/cmr/m/n/10.95 ,
+
+Underfull \hbox (badness 1584) in paragraph at lines 69--73
+\OT1/cmr/m/n/10.95 us-ing chaos the-ory.  In \OT1/cmr/m/it/10.95 Soft-ware Para
+digm Trends (ICSOFT-PT), 2014 9th
  []
 
-)
+[10])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 181.
  [11]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 181.
@@ -510,17 +509,17 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 181.
 Here is how much of TeX's memory you used:
  5709 strings out of 493698
  90527 string characters out of 3141993
- 226476 words of memory out of 3000000
+ 226691 words of memory out of 3000000
  8991 multiletter control sequences out of 15000+200000
  9287 words of font info for 33 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 36i,6n,38p,1680b,424s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,6n,38p,1680b,413s stack positions out of 5000i,500n,10000p,200000b,50000s
 <G:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><
 G:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><G:/
 Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><G:/
 Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><G:/Pr
 ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on COMP150_Agile_Essay_Proposal.pdf (11 pages, 138870 bytes).
+Output written on COMP150_Agile_Essay_Proposal.pdf (11 pages, 138921 bytes).
 PDF statistics:
  175 PDF objects out of 1000 (max. 8388607)
  42 named destinations out of 1000 (max. 500000)
