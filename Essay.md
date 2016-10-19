@@ -1,4 +1,3 @@
-Agile Development Essay Question:How CanAgile DEvelopment Practises Help Improve Wrokflow of a Project?
+Agile Development Essay Question:How Can the Agile Development Practises Help Improve Workflow of a Project?
 
-The Aglie Development process is a process that can seperates the workflow into easy to manage sections fo work which can be divided
-between the team members. This means that
+The modern era is constantly advancing technology in leaps and bounds so development teams must come up with better ways of developing software than the original linear/waterfall method that relied on the work being fully planned out before beginning any work. The Agile Development Practises however work on a day to to planning then working basis in sessions such as scrums. These scrums are set up so that all the work done in the previous day is reviewed and then if anything needs changing the scrum master, the one in charge of managing the scrums, ajust the workplan for that day to maximise the scrums overall output. The scrum master also gets information from the product owner that includes input from end-users, stakeholders and customers. 
