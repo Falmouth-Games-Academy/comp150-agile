@@ -7,3 +7,9 @@ A. O. Tonelli, A. L. Zambalde, M. S. Oliveria, L. M. Antonialli, P. H. S. Bermej
 https://www.computer.org/csdl/proceedings/hicss/2010/3869/00/10-01-02.pdf
 
 https://www.computer.org/csdl/proceedings/hicss/2009/3450/00/10-01-06.pdf
+
+https://www.computer.org/csdl/proceedings/hicss/2015/7367/00/7367f133.pdf
+
+https://www.computer.org/csdl/proceedings/hicss/2016/5670/00/5670e932.pdf
+
+https://www.computer.org/csdl/proceedings/hicss/2015/7367/00/7367e446.pdf
