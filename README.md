@@ -10,6 +10,9 @@ How does having a scrum master affect the productivity of an agile working team?
 
 **How can stakeholder involvment affect the productivity of an agile team?**
 
+##Proposal
+In the world of software development, the agile methodology has almost become a standard process that is used. Scrum is the most commonly used proccess within Agile, which focusses on delivering functioning software regularly as opposed to just one deliverable when a complete model has been made.  
+
 [1] [Exploring Agile] (http://dl.acm.org.ezproxy.falmouth.ac.uk/citation.cfm?id=1370144&CFID=859698093&CFTOKEN=30722139) > What is Agile?
 
 [2] [Scrum and Agile Methods in Software Engineering Courses] (http://dl.acm.org.ezproxy.falmouth.ac.uk/citation.cfm?id=2844664&CFID=859698093&CFTOKEN=30722139) > What is Agile?
