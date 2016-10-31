@@ -4,6 +4,8 @@ Essay on the Agile Philosophy
 ##Potential Questions
 What problems can arise when a new member joins the agile team and what steps can be taken to improve the joining process?
 
+How hard is it for an agile team to overcome a member leaving and what baracades could this create?
+
 
 
 [1] Charles E. Mathews, "Agile Practices in Embedded Systems", SPLASH’11 Workshops, October 22–23, 2011, Portland, Oregon, USA, pp. 249-250.
