@@ -8,12 +8,12 @@ How hard is it for a new member of the agile team to pickup from whom they have 
 
 How does having a scrum master affect the productivity of an agile working team?
 
-How can stakeholder involvment affect the productivity of an agile team?
+>>How can stakeholder involvment affect the productivity of an agile team?
 
-[1] [Exploring Agile] (http://dl.acm.org.ezproxy.falmouth.ac.uk/citation.cfm?id=1370144&CFID=859698093&CFTOKEN=30722139)
+[1] [Exploring Agile] (http://dl.acm.org.ezproxy.falmouth.ac.uk/citation.cfm?id=1370144&CFID=859698093&CFTOKEN=30722139) > What is Agile?
 
-[2] Carolina Salvador, Arturo Nakasone and Jose Antonio Pow-Sang, "A Systematic Review of Usability Techniques in Agile Methodologies", EATIS’14, April 02 - 04 2014, Valparaiso, Chile, 2014.
+[2] [Scrum and Agile Methods in Software Engineering Courses] (http://dl.acm.org.ezproxy.falmouth.ac.uk/citation.cfm?id=2844664&CFID=859698093&CFTOKEN=30722139) > What is Agile?
 
-[3] Kenny Heinonen, Kasper Hirvikoski, Matti Luukkainen and Arto Vihavainen, "Learning Agile Software Engineering Practices using Coding Dojo", SIGITE’13, October 10-12, 2013, Orlando, Florida, USA, pp. 97-102.
+[3] [Stakeholder Involvement in Agile Software Development] (http://dl.acm.org.ezproxy.falmouth.ac.uk/citation.cfm?id=2987678&CFID=859698093&CFTOKEN=30722139) > Stakeholder involvement
 
-[4] Rory McGuire (June 28, 2006). Paper Burns: Game Design With Agile Methodologies. Gamasutra [Online]. Available: http://www.gamasutra.com/view/feature/131151/paper_burns_game_design_with_.php. [Accessed: October 18, 2016].
+[4] [Stakeholder Theory and Agile Software Development] (http://dl.acm.org.ezproxy.falmouth.ac.uk/citation.cfm?id=2987678&CFID=859698093&CFTOKEN=30722139) > Stakeholder involvement
