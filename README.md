@@ -1,6 +1,11 @@
 # comp150-agile
 Essay on the Agile Philosophy
 
+##Potential Questions
+What problems can arise when a new member joins the agile team and what steps can be taken to improve the joining process?
+
+
+
 [1] Charles E. Mathews, "Agile Practices in Embedded Systems", SPLASH’11 Workshops, October 22–23, 2011, Portland, Oregon, USA, pp. 249-250.
 
 [2] Carolina Salvador, Arturo Nakasone and Jose Antonio Pow-Sang, "A Systematic Review of Usability Techniques in Agile Methodologies", EATIS’14, April 02 - 04 2014, Valparaiso, Chile, 2014.
