@@ -20,3 +20,5 @@ In the world of software development, the agile methodology has almost become a 
 [3] [Stakeholder Involvement in Agile Software Development] (http://dl.acm.org.ezproxy.falmouth.ac.uk/citation.cfm?id=2987678&CFID=859698093&CFTOKEN=30722139) > Stakeholder involvement
 
 [4] [Stakeholder Theory and Agile Software Development] (http://dl.acm.org.ezproxy.falmouth.ac.uk/citation.cfm?id=2987678&CFID=859698093&CFTOKEN=30722139) > Stakeholder involvement
+
+[5] [Agility in Context] (http://dl.acm.org.ezproxy.falmouth.ac.uk/citation.cfm?id=1869467&CFID=859698093&CFTOKEN=30722139) > Customer Involvement
