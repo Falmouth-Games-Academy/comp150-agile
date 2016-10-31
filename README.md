@@ -8,7 +8,7 @@ How hard is it for a new member of the agile team to pickup from whom they have 
 
 How does having a scrum master affect the productivity of an agile working team?
 
- > How can stakeholder involvment affect the productivity of an agile team?
+**How can stakeholder involvment affect the productivity of an agile team?**
 
 [1] [Exploring Agile] (http://dl.acm.org.ezproxy.falmouth.ac.uk/citation.cfm?id=1370144&CFID=859698093&CFTOKEN=30722139) > What is Agile?
 
