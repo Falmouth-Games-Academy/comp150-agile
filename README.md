@@ -8,7 +8,9 @@ How hard is it for a new member of the agile team to pickup from whom they have 
 
 How does having a scrum master affect the productivity of an agile working team?
 
-**How can stakeholder involvment affect the productivity of an agile team?**
+How can stakeholder involvment affect the productivity of an agile team?
+
+**Should the technically team have a seperate scrum meeting to the rest of the development team?
 
 ##Proposal
 In the world of software development, the agile methodology has become the standard methodology. Scrum is the most commonly used proccess within Agile, which focusses on delivering functioning software regularly as opposed to just one deliverable when a complete model has been made.  Based upon this information we can see that investor involvement is pretty much essential as they will be giving regular feedback on each deliverable. However, should this be the only input any external party should have? Should investors be allowed to sit in during team meetings or stand ups for example? How can investors provide input safely without interfering with the team flow? With this in mind if investors were able to take part in meetings/stand-ups could this negativley impact the teams performance? Should communications with the investors be done by only the scrum master who could then relay it back to the team, therefore keeping them out of team meets?
