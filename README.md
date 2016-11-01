@@ -35,4 +35,6 @@ During my research I have currently discovered a few papers which discuss the im
 [4] [Agile Game Development with Scrum] (http://voyager.falmouth.ac.uk/vwebv/holdingsInfo?bibId=363526) > How do scrums work?
 
 [5] [Do daily scrums have to take place each day?] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7070423/
-) > Technical team non daily scrum meetings
+) > Scrum Meetings
+
+[6] [The scrum software development process for small teams] (http://falmouth.summon.serialssolutions.com/#!/search/document?ho=t&l=en&q=weekly%20scrum%20meetings&id=FETCHMERGED-LOGICAL-c2814-eceef4a0bcd59ddbc2014e4cff96735afaa49df998d4a5144dd73283b17c0e7b2) > Scrum Meetings
