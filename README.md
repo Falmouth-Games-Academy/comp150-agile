@@ -10,7 +10,7 @@ How does having a scrum master affect the productivity of an agile working team?
 
 How can stakeholder involvment affect the productivity of an agile team?
 
-**Should the technical team have a seperate scrum meeting to the rest of the development team?
+**Should the technical team have a seperate scrum meeting to the rest of the development team?**
 
 <!--three slides
 first: explain question
