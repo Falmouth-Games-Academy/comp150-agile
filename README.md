@@ -16,6 +16,7 @@ How can stakeholder involvment affect the productivity of an agile team?
 first: explain question
 second: what I have found out (sources)
 third: how we can apply this to our work
+use overleaf for proposal
 !-->
 
 ##Proposal
