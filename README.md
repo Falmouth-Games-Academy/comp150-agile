@@ -1,5 +1,7 @@
 Should scrum be used to teach students for group projects instead of more traditional teaching methods in schools and higher education environments?
+
 Topic:
+
 My essay will be on whether scrum can be used as an effective medium to teach students in primary and higher education. I have chosen to write about this because teaching has changed from the traditional methods of learning to more active learning activities such as having students participate in activities rather than just having them listen to a lesson or lecture. scrum would be an effective way to do this, it can also be applied to lessons very easily. Where in scrum there are customers who can change their mind about a product such as in game development. In a school or university, the lecturer can take over this role to present challenges to pupils. This engages them and helps them to learn.
 
 The Agile movement seeks to make a change to outdated project management by introducing a new method in which to control and structure projects, whether they are in the games industry or in schools. The way the Agile movement does this is by introducing a concept called scrum, which is to be introduced when managing projects. The basis of scrum is to promote critical feedback, team self-management and to make playable or working prototypes within a short amount of time [1]. 
