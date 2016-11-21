@@ -37,4 +37,3 @@ During my research I have currently discovered a few papers which discuss the im
 [5] [Do daily scrums have to take place each day?] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7070423/
 ) > Scrum Meetings
 
-[6] [The scrum software development process for small teams] (http://falmouth.summon.serialssolutions.com/#!/search/document?ho=t&l=en&q=weekly%20scrum%20meetings&id=FETCHMERGED-LOGICAL-c2814-eceef4a0bcd59ddbc2014e4cff96735afaa49df998d4a5144dd73283b17c0e7b2) > Scrum Meetings
