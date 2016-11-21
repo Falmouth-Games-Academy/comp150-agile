@@ -35,4 +35,4 @@ During my research I have currently discovered a few papers which discuss the im
 [4] [Do daily scrums have to take place each day?] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7070423/
 ) > Scrum Meetings
 
-[5] [Distributed Agile Development: Using Scrum in a Large Project] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/xpls/icp.jsp?arnumber=4638656)
+[5] [Distributed Agile Development: Using Scrum in a Large Project] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/xpls/icp.jsp?arnumber=4638656) > Scrum Meetings
