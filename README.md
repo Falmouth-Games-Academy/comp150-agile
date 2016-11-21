@@ -32,8 +32,7 @@ During my research I have currently discovered a few papers which discuss the im
 
 [3] [Stakeholder Involvement in Agile Software Development] (http://dl.acm.org.ezproxy.falmouth.ac.uk/citation.cfm?id=2987678&CFID=859698093&CFTOKEN=30722139) > Stakeholder involvement
 
-[4] [Agile Game Development with Scrum] (http://voyager.falmouth.ac.uk/vwebv/holdingsInfo?bibId=363526) > How do scrums work?
-
-[5] [Do daily scrums have to take place each day?] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7070423/
+[4] [Do daily scrums have to take place each day?] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7070423/
 ) > Scrum Meetings
 
+[5] [Distributed Agile Development: Using Scrum in a Large Project] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/xpls/icp.jsp?arnumber=4638656)
