@@ -5,8 +5,10 @@ Essay on the Agile Philosophy
 A. O. Tonelli, A. L. Zambalde, M. S. Oliveria, L. M. Antonialli, P. H. S. Bermejo & M. A. Santos, Agile practises to accelerate the delivery of software: a quantitive study with software professionals, 46th Hawaii International Conference on System Sciences, 2013, Hawaii.
 
 [2]https://www.computer.org/csdl/proceedings/hicss/2010/3869/00/10-01-02.pdf
+L. Krzanik, P. Kuvaja, P. Rodriguez, A. Rohunen, J. Simil#133, Exploring the Transient Nature of Agile Project Management, 43rd Hawaii International Conference on System Sciences, 2010, Hawaii.
 
 [3]https://www.computer.org/csdl/proceedings/hicss/2009/3450/00/10-01-06.pdf
+N. B. Poe, T. Dingsoyer
 
 [4]https://www.computer.org/csdl/proceedings/hicss/2015/7367/00/7367f133.pdf
 
