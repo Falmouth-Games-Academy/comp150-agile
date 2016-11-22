@@ -1,6 +1,7 @@
 Agile Development Essay Question: How Can the Scrum Master Help Improve Workflow of a Project?
 
 1) Introduction
+
 The modern era is constantly advancing technology in leaps and bounds so development teams must come up with better ways of developing software than the original linear/waterfall method that relied on the work being fully planned out before beginning any work. As of late a new practise has arisen that greatly improves the workflow of a project, The Agile Development Practise. The Agile Development Practise greatly revloves around shared leadership and has a huge emphasis on teamwork and information sharing. The ledaership of the team is shared between each member[3] meaning no one member has complete control over who is allocated what to work on. This is the main aspect of the agile method known as a Scrum[3]. A scrum consists of multiple blocks of work know as sprints. The size of a sprint can differ depending on the size of the team, the size of the project and the experience of the team, however sprints are usually 3 weeks long.   
 
 A Scrum Master has a very important role within the Agile Development Practises. It's their job to hold daily stand-up meetings and to make sure all work is being progressed through steadily without fault. The scrum master will also address if someone is taking on to many projects at once and sort out how that can be amended. The scrum master however is not the overall boss of the project.
