@@ -1,45 +1,97 @@
-% Please do not change the document class
 \documentclass{scrartcl}
 
-% Please do not change these packages
 \usepackage[hidelinks]{hyperref}
 \usepackage[none]{hyphenat}
 \usepackage{setspace}
 \doublespace
-
-% You may add additional packages here
 \usepackage{amsmath}
 
-% Please include a clear, concise, and descriptive title
-\title{Your Title Here}
+\usepackage{url}
+\usepackage{graphicx}
 
-% Please do not change the subtitle
+\title{Challenges when scaling the Agile Methodology and how to Overcome them}
 \subtitle{COMP150 - Agile Development Practice}
-
-% Please put your student number in the author field
-\author{DO NOT WRITE YOUR NAME\\Put your student number (on your ID card) here}
+\date{2017-11-16}
+\author{1604281}
 
 \begin{document}
 
 \maketitle
+\pagenumbering{arabic}
 
-\abstract{Please include an abstract of at most 100 words (these do not count towards your word count).}
+\begin{abstract}
+	The Agile Software Development methodology was initially designed to be used in small teams that could quickly develop products with flexible requirements. As Agile practices have gained popularity in the software industry, companies have found the need to employ Agile methods in larger teams and on more complex projects. This paper will be examining some of the challenges associated with up-scaling the Agile methodology and discussing some of the solutions that are used in industry.
+\end{abstract}
 
 \section{Introduction}
 
-Write your introduction here. A brief introduction is recommended, which should outline key details of the chosen topic and the reviewed papers, motivate the work, and provide a roadmap of key points to the reader. The motivation is quite important here, as essays should have a contribution (i.e., what is the point of the essay, and what does the reader take away from the essay) and the link between the motivation (in the introduction) and the contribution (in the conclusion) should be made clear.
+ One of the most common criticisms of the agile methodology is the difficulties encountered when up-scaling the size of Agile projects. \cite{begel2007usage}
 
-\section{Your section title here}
+Although this paper is addressing general Agile practices and problems, the Agile methodology is also used in the games industry \cite{politowski2016old} which can range from small independent studios to massive teams working on multiple pieces of software. It has even been shown that many games development companies who do not intent to use Agile development still implement many of its core practices \cite{petrillo2010agility} and as such, the potential to scale Agile development to suit the nature of the game development environment could be beneficial to the games industry as a whole. 
 
-Write the main body of your essay here. Add more sections if appropriate. You may choose to write about each of your three papers in its own section, or you may choose a different structure. Either way, remember that you are being assessed on technical insight and analysis: it is not enough to merely summarise the contents of the three papers. You must demonstrate the ability to make inferences beyond what is written in the papers, and to draw the three papers together into a single coherent narrative.
+\section{Challenges}
 
-Your essay must make a clear recommendation, in terms of which of the three techniques you have reviewed is the best according to whichever metric or metrics you feel is most appropriate. You must justify your choice, backing it up with empirical evidence. However remember that an academic essay is not a murder mystery: you should already have briefly discussed your recommendation in the introduction and in other parts of the essay. Do not save it for a grand reveal at the end.
+Though there are many issues involved in scaling an Agile project \cite{turk2014limitations}, the two that will be addressed in this paper are Team Size and Project Complexity. 
+
+\paragraph{Project Complexity}\mbox{}\newline
+
+As a project becomes larger and more complex, several issues arise when approaching it with the Agile methodology. Firstly, the Agile principle of ``Welcome changing requirements, even late in development." \cite{AgileManifesto}, while feasible to implement in a small project, becomes increasingly difficult as the software becomes more complex. For example, if a project has many constituent parts which each have many dependencies on each other, changing one aspect of the project late in development may cause problems in other parts of the project. This can be compounded by another aspect of project complexity - mixing of Agile and Non-Agile teams. \cite{reifer2003scaling}
+
+A large project will inevitably have multiple teams working on different aspects of it concurrently, often leading to both Agile and Non-Agile groups collaborating. This can cause clashes in design approach and lead to some groups not fully understanding the design of the project. 
+
+ 
+
+\paragraph{Team Size}\mbox{}\newline
+
+Similar issues exist regarding larger team sizes, particularly when regarding communication. Communication is key to any development project but it is given special focus in an agile context. \cite{stoica2013software} As teams become larger, usually when consisting of over fifteen people, \cite{ambler2009agile} communication within the team can break down, as Scrum meetings become unwieldy and long winded, wasting time that could be spent working.
+
+\section{Solutions}
+
+There have been numerous proposed solutions to the difficulties of scaling Agile, however this paper will be focusing on just three of them. A brief outline of each solution has been provided below.
+
+\paragraph{Scrum of Scrums}\mbox{}\newline
+
+The Scrum of Scrums is a common method for dealing with large Agile teams which enhances the standard Scrum model. Large teams are divided into smaller ones and an Ambassador is appointed for each. Individual teams conduct normal Scrum meeting, while the Ambassadors meet for a Scrum of Scrums where they relay important issues discussed in their teams' scrums.
+
+\paragraph{Lean Governance}\mbox{}\newline
+
+Lean Development Governance is a governance method proposed to create a stable framework to allow Agile, Lean or similar software development methods to be implemented into a company or department.
+
+See this paper for details \cite{ambler2009applying}.
+
+\paragraph{Multiple Backlogs}\mbox{}\newline
+
+The Nokia Corporation took an interesting approach on one of their projects, utilising four different types of backlog to organise tasks across multiple teams.
+
+As shown in Figure \ref{fig:backlogs}, the system they developed consisted of two program level backlogs and two at team level. See this paper for details \cite{laanti2008implementing}.
+	
+\begin{figure}
+	\includegraphics[width=\linewidth]{"Nokia Multiple Backlogs".png}
+	\caption{Backlog Structure: Taken from \cite[p. ~1384]{laanti2008implementing}}
+	\label{fig:backlogs}
+\end{figure}
+
+
+\section{Analysis and Comparison}
+
+The widespread usage of Scrum of Scrums suggests that it becomes a crucial element of Agile Development as soon as team sizes start increasing as it facilitates constant communication without meetings becoming long and cumbersome.
+
+Lean Governance itself is not specifically tailored to improving scalability of Agile development but many of the principles of Lean Software Development overlap or mesh well with Agile. In addition to this, it has been suggested that many of the practices suggested by Lean Governance provide opportunity to employ Agile at a large scale. \cite{ambler2009scaling} One practice of Lean Governance that applies strongly to Agile development is Staged Program Delivery as it ensures constant delivery of working software, even if it lacks some features. 
+
+Nokia's approach was unique and provided a simple way to separate tasks between teams. However, while this method appears easy to set up, it is important to note that Nokia had many veteran program managers who were able to coordinate between teams and to help keep a long term goal in mind when planning sprints. Nokia also had problems with undisciplined practices, such as Scrum Masters acting as managers. This supports the idea that the effectiveness of Agile development is strongly affected by the presence of supportive management practices. \cite{maruping2009control} This reinforces the suggestion that a Lean Governance framework is crucial to providing the basis for Agile at Scale, as it promotes governance that supports the Agile values. Despite this, implementing Lean Governance is a major task that requires training management staff and reorganising company work-flow and therefore may not be suitable for all companies.  
+
+Even with these proposed solutions, it is likely that compromises will have to be made. \cite{reifer2003scaling} Allowing for some initial design work to outline the long term vision of the project can be useful when working with Agile and Non-Agile teams as it provides something permanent to work off, while still allowing room for iterative design. This can also be of use in complex projects where the finished product may be years away, as it keeps the developers focused on the final goals. This may be necessary in situations where a company does not have the experienced managers needed to keep a project on track, as Nokia did.
+
 
 \section{Conclusion}
 
-Write your conclusion here. The conclusion should do more than summarise the essay, making clear the contribution of the work and highlighting key points, limitations, and outstanding questions. It should not introduce any new content or information.
+Despite the challenges faced when scaling up the Agile Methodology, it has been proved feasible \cite{bick2016inter} and many solutions exist to overcome the issues. Whatever method is employed when scaling, it is critical to address communication issues due to their potentially widespread impact on a project. Scrum of Scrums is an essential starting point if large teams are used, as it keeps teams in contact while requiring only a single extra meeting session for the ambassadors. This may also be of particular importance in the Games Industry, where design choices heavily effect mechanics programming, narrative writing and art-style. 
 
-\bibliographystyle{ieeetran}
+Communication aside, the exact method of scaling will have to be tailored for the individual company, project or team, as different requirements may exist.
+
+
 \bibliography{references}
+\bibliographystyle{ieeetran}
+
 
 \end{document}
